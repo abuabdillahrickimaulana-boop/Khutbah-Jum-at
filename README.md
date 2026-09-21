@@ -1,3 +1,72 @@
-# Khutbah-Jum'at
-Khutbah jum'at tentang telaga Nabi Muhammad Shallallahu'alaihi wasallam
-![Image Alt](https://github.com/abuabdillahrickimaulana-boop/Khutbah-Jum-at/blob/bec50ca5f91bcffb0f2bb7561ada1a8db1dab870/telaga%201.jpg)
+   ![Image Alt](https://github.com/abuabdillahrickimaulana-boop/Khutbah-Jum-at/blob/bec50ca5f91bcffb0f2bb7561ada1a8db1dab870/telaga%201.jpg)
+<!DOCTYPE html>
+<html>
+     <title>Khutbah Jum'at</title>
+    <head>Khutbah Jum'at</head>
+    <body>
+        <div
+        style="
+        display: flex;
+        justify-content: center;
+        ">
+        <div>
+                 <h1 style="color: blue;text-align: center;">Golongan Yang Diusir Dari Telaga Nabi Shallallahu'alaihi wassallam</h1>
+        
+       
+                 <h5 align="center">Oleh: Ricki Maulana</h5>
+        </div>
+        </div>
+        <h2>Khutah Pertama</h2>
+        <p align="right">إِنَّ الْحَمْدَ للهِ نَحْمَدُهُ وَنَسْتَعِيْنُهُ وَنَسْتَغْفِرُهُ وَنَعُوْذُ بِاللهِ مِنْ شُرُوْرِ أَنْفُسِنَا وَسَيِّئَاتِ أَعْمَالِنَا مَنْ يَهْدِهِ اللهُ فَلاَ مُضِلَّ لَهُ وَمَنْ يُضْلِلْ فَلاَ هَادِيَ لَهُ <br>وَأَشْهَدُ أَنْ لاَ إِلَهَ إِلاَّ اللهُ وَحْدَهُ لاَ شَرِيْكَ لَهُ وَأَشْهَدُ أَنَّ مُحَمَّداً عَبْدُهُ وَرَسُوْلُهُ<br>
+“يَا أَيُّهَا الَّذِينَ آمَنُواْ اتَّقُواْ اللّهَ حَقَّ تُقَاتِهِ وَلاَ تَمُوتُنَّ إِلاَّ وَأَنتُم مُّسْلِمُونَ”<br>
+“يَا أَيُّهَا النَّاسُ اتَّقُواْ رَبَّكُمُ الَّذِي خَلَقَكُم مِّن نَّفْسٍ وَاحِدَةٍ وَخَلَقَ مِنْهَا زَوْجَهَا وَبَثَّ مِنْهُمَا رِجَالاً كَثِيراً وَنِسَاء وَاتَّقُواْ اللّهَ الَّذِي تَسَاءلُونَ بِهِ وَالأَرْحَامَ إِنَّ اللّهَ كَانَ عَلَيْكُمْ رَقِيباً”<br>
+“يَا أَيُّهَا الَّذِينَ آمَنُوا اتَّقُوا اللَّهَ وَقُولُوا قَوْلاً سَدِيداً . يُصْلِحْ لَكُمْ أَعْمَالَكُمْ وَيَغْفِرْ لَكُمْ ذُنُوبَكُمْ وَمَن يُطِعْ اللَّهَ وَرَسُولَهُ فَقَدْ فَازَ فَوْزاً عَظِيماً”<br>
+أَمَّا بَعْدُ، فَإِنَّ خَيْرَ الْحَدِيثِ كِتَابُ اللَّهِ، وَخَيْرُ الْهُدَى هُدَى مُحَمَّدٍ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ، وَشَرُّ الْأُمُورِ مُحْدَثَاتُهَا، وَكُلُّ بِدْعَةٍ ضَلَالَةٌ.</p>
+ 
+        <p>Jama'ah rohimani warohimakulloh<br>Kejadian hari kiamat merupakan peristiwa besar yg pasti akan terjadi. Dimulai dari ditiupnya sangkakala pertama untuk membinasakan seluruh makhluk, dan diakhiri antara lain dengan disembelihnya kematian di suatu tempat antara surga dan neraka.<br>Imam al-Qurthuby berkata, setelah semua manusia dibangkitkan dari alam kubur, dalam keadaan rasa dahaga yang luar biasa, mereka digiring ke arah telaga yang dimiliki oleh para nabi. Namun ternyata sesampainya di sana tidak semua orang diberi karunia untuk minum air telaga yg dimiliki para nabi tersebut.</p>
+        <p>Jama'ah rohimani warohimakulloh<br>Keyakinan akan adanya telaga di hari kiamat merupakan suatu akidah yang dilandasi hadits sahih bahkan mutawatir dan ijma’ para ulama.<br>Imam as-Suyuthy menyebutkan bahwa hadits yang menceritakan adanya telaga di hari kiamat, telah diriwayatkan oleh lebih dari lima puluh sahabat.</P>
+        <p>Jama'ah rohimani warohimakulloh<br>Telaga yang ada di padang mahsyar kelak jumlahnya sangat banyak yaitu sebanyak jumlah para nabi yang Allah utus ke muka bumi<br>Rasulullah shallallahu’alaihiwasallam bersabda,
+<br> <p align= "right">“إِنَّ لِكُلِّ نَبِيٍّ حَوْضًا، وَإِنَّهُمْ يَتَبَاهَوْنَ أَيُّهُمْ أَكْثَرُ وَارِدَةً، وَإِنِّي أَرْجُو أَنْ أَكُونَ أَكْثَرَهُمْ وَارِدَةً”</p>“Sesungguhnya setiap nabi memiliki telaga. Dan mereka saling membanggakan siapakah telaganya yang paling banyak dikunjungi. Aku berharap telagakulah yang paling banyak pengunjungnya”. HR. Tirmidzi dan dinyatakan sahih oleh al-Albany.</p>
+        <p>Jama'ah rohimani warohimakulloh<br>Dikarenakan telaga Rasulullah  shallallahu’alaihiwasallam paling banyak pengunjung yang akan mereguk airnya, maka gelas-gelas yang tersedia di sana pun amatlah banyak. <br>Beliau shallallahu’alaihiwasallam mengabarkan,<br> <p align="right">“أَكْوَابُهُ مِثْلُ نُجُومِ السَّمَاء”</p>
+“Gelas-gelas telagaku sebanyak bintang-bintang di langit”. HR. Ahmad dari Ibnu Umar dan sanadnya dinilai sahih oleh al-Hakim.
+<br>Air telaga beliau shallallahu’alaihiwasallam lebih putih dari susu, lebih manis dari madu, lebih dingin dari es dan lebih harum dibanding minyak misik. Barangsiapa meminum satu teguk darinya; maka ia tidak akan pernah merasa haus selamanya!
+<br>Beliau shallallahu’alaihiwasallam bersabda,<br> <p align="right">“مَاؤُهُ أَبْيَضُ مِنْ اللَّبَنِ، وَرِيحُهُ أَطْيَبُ مِنْ الْمِسْكِ … مَنْ شَرِبَ مِنْهَا فَلَا يَظْمَأُ أَبَدًا”</p> “Airnya lebih putih dari susu, aromanya lebih harum dibandingkan minyak misik … Barang siapa minum darinya; niscaya ia tidak akan pernah merasa dahaga selamanya!”. HR. Bukhari dan Muslim dari Abdullah bin ‘Amr.
+         <p>Jama'ah rohimani warohimakulloh<br>Lalu siapakah yang akan melayani orang-orang yang akan meminum dari telaga beliau? <br>Yang akan melayani mereka bukanlah sembarang orang, namun ia adalah orang paling mulia.<br>Yaitu Nabi Muhammad shallallahu’alaihiwasallam sendirilah yang akan melayani umatnya untuk minum air telaganya.<br>Beliau shallallahu’alaihiwasallam bersabda,
+        <p align="right">“أَنَا فَرَطُكُمْ عَلَى الْحَوْضِ”</p>
+        “Aku akan mendahului kalian ke telaga dan melayani kalian”. HR. Bukhari dan Muslim dari Ibnu Mas’ud.
+        <br>Coba renungkanlah jamaah, betapa Rosululloh Sholallohu'alaihi wasallam sangat menyayangi umatnya.<br>Di saat mereka dalam keadaan dahaga luar biasa, beliau melayani umatnya agar bisa minum air telaga beliau Sholallohu'alaihi wasallam.
+        <h2>Khutah Kedua</h2>
+   <p align="right">اَلْحَمْدُ لِلَّهِ عَلَى إِحْسَانِهِ، وَالشُّكْرُ لَهُ عَلَى تَوْفِيقِهِ وَامْتِنَانِهِ، وَأَشْهَدُ أَنْ لَا إِلَهَ إِلَّا اللهُ وَحْدَهُ لَا شَرِيكَ لَهُ تَعْظِيمًا لِشَأْنِهِ، وَأَشْهَدُ أَنَّ نَبِيَّنَا مُحَمَّدًا عَبْدُهُ وَرَسُولُهُ الدَّاعِيَ إِلَى رِضْوَانِهِ، صَلَّى اللهُ عَلَيْهِ وَعَلَى آلِهِ وَأَصْحَابِهِ وَإِخْوَانِهِ</p>
+<p>Jama'ah rohimani warohimakulloh<br>Namun ada di antara sekelompok manusia yang tidak diberi kesempatan untuk mereguk telaga Rasul shallallahu’alaihiwasallam, padahal saat itu mereka berada dalam kondisi amat dahaga! Siapakah mereka yang bernasib begitu naas?
+<br>Rasulullah shallallahu’alaihiwasallam bersabda, 
+<p align="right">“لَيَرِدَنَّ عَلَيَّ أَقْوَامٌ أَعْرِفُهُمْ وَيَعْرِفُونِي، ثُمَّ يُحَالُ بَيْنِي وَبَيْنَهُمْ … فَأَقُولُ: إِنَّهُمْ مِنِّي!. فَيُقَالُ: إِنَّكَ لَا تَدْرِي مَا أَحْدَثُوا بَعْدَكَ! فَأَقُولُ: “سُحْقًا سُحْقًا لِمَنْ غَيَّرَ بَعْدِي”</p>
+“Akan datang ke (telaga)ku orang-orang yang kukenal dan mereka mengenaliku, namun kemudian mereka terhalang dariku”.
+<br>Akupun berkata, “Mereka adalah bagian dariku!”.
+<br>Namun  Dijawab, “Sesungguhnya engkau tidak mengetahui apa yang mereka ada-adakan setelah engkau (meninggal dunia)”.
+<br>Aku berkata, “Menjauhlah orang-orang yang mengubah-ubah (agamaku) sesudahku!”. HR. Bukhari dan Muslim dari Sahl bin Sa’d.
+<p>Jama'ah rohimani warohimakulloh<br>Sungguh betapa besar bahaya, mengubah-ubah dan mengada² dalam urusan agama. Dalam hadits di atas jelas, hukumannya adalah akan diusir dari telaga Rasulullah shallallahu’alaihiwasallam.
+<p>Kenapa mereka diusir dari telaga Nabi shallallahu’alaihiwasallam?<br>
+Karena sewaktu di dunia mereka tidak mau berpegang teguh dengan sunnah dan ajaran Nabi Sholallohu'alaihi wasallam, dan malah lancang membuat ajaran baru yang menyelisihi ajaran shallallahu’alaihiwasallam. Sebagaimana mereka enggan berpegang teguh dengan sunnah Rasulullah shallallahu’alaihiwasallam  ketika di dunia, maka di akhirat kelak, mereka tidak diizinkan minum air telaga Rosululloh shallallahu’alaihiwasallam. 
+</p>
+<p>Oleh karena itu, seorang muslim dituntut untuk begrsikap teliti dalam menerima sesuatu yg berkenaan dengan masalah agama. Agar ia memiliki pegangan yang kokoh sehingga ia tidak mudah ikut-ikutan melakukan amalan² yang diada-adakan yang tidak dicontohkan Rosululloh shallallahu’alaihiwasallam. 
+</p>
+<p>Jama'ah rohimani warohimakulloh<br>Kita hidup di dunia hanya sebentar, kesempatan kita beramal hanya sekali, jangan sampai dikesempatan yang tak terulang ini, kita malah mengerjakan  amalan-amalan yang diada-adakan yg tidak dicontohkan Rosululloh Sholallohu'alaihi wasallam, yg justru malah amalan² tersebut tidak Allah ridhoi.
+<br>Rosululloh  shallallahu’alaihiwasallam bersabda,
+<p align="right">“مَنْ عَمِلَ عَمَلًا لَيْسَ عَلَيْهِ أَمْرُنَا فَهُوَ رَدٌّ”</p>“Barang siapa yang melakukan suatu amalan yang tidak sesuai dengan petunjukku, maka amalan itu akan ditolak”. HR. Muslim dari Aisyah
+<p>Jama'ah rohimani warohimakulloh<br>Berusahalah untuk senantiasa mencontoh Rosululloh Sholallohu'alaihi wasallam. Agar amalan² yg kita kerjakan bisa menjadi tabungan pahala yang akan kita nikmati kelak diakhirat.
+<p align="right">هَذَا؛ وَصَلُّوا وَسَلِّمُوا - رَحِمَكُمُ اللهُ - عَلَى الصَّادِقِ الْأَمِينِ؛ كَمَا أَمَرَكُمْ بِذَلِكَ مَوْلَاكُمْ رَبُّ الْعَالَمِينَ،<br>
+         فَقَالَ سُبْحَانَهُ: "إِنَّ اللَّهَ وَمَلَائِكَتَهُ يُصَلُّونَ عَلَى النَّبِيِّ يَا أَيُّهَا الَّذِينَ آمَنُوا صَلُّوا عَلَيْهِ وَسَلِّمُوا تَسْلِيمًا"<br>
+         .اَللَّهُمَّ صَلِّ عَلَى مُحَمَّدٍ وَعَلَى آلِ مُحَمَّدٍ كَمَا صَلَّيْتَ عَلَى إِبْرَاهِيمَ وَعَلَى آلِ إِبْرَاهِيمَ إِنَّكَ حَمِيدٌ مَجِيدٌ,<br>
+          اَللَّهُمَّ بَارِكْ عَلَى مُحَمَّدٍ وَعَلَى آلِ مُحَمَّدٍ كَمَا بَارَكْتَ عَلَى إِبْرَاهِيمَ وَعَلَى آلِ إِبْرَاهِيمَ إِنَّكَ حَمِيدٌ مَجِيدٌ.<br>
+         اَللَّهُمَّ اغْفِرْ لِلْمُسْلِمِينَ وَالْمُسْلِمَاتِ، وَالْمُؤْمِنِينَ وَالْمُؤْمِنَاتِ الْأَحْيَاءِ مِنْهُمْ وَالْأَمْوَاتِ, إِنَّكَ سَمِيعٌ قَرِيبٌ مُجِيبُ الدَّعَوَاتِ.<br>
+         رَبَّنَا ظَلَمْنَا أَنْفُسَنَا وَإِنْ لَمْ تَغْفِرْ لَنَا وَتَرْحَمْنَا لَنَكُونَنَّ مِنَ الْخَاسِرِينَ.<br>
+         رَبَّنَا اغْفِرْ لَنَا وَلِإِخْوَانِنَا الَّذِينَ سَبَقُونَا بِالْإِيمَانِ وَلَا تَجْعَلْ فِي قُلُوبِنَا غِلًّا لِلَّذِينَ آمَنُوا رَبَّنَا إِنَّكَ رَؤُوفٌ رَحِيمٌ.<br>
+         رَبَّنَا لَا تُزِغْ قُلُوبَنَا بَعْدَ إِذْ هَدَيْتَنَا وَهَبْ لَنَا مِنْ لَدُنْكَ رَحْمَةً إِنَّكَ أَنْتَ الْوَهَّابُ.<br>
+         رَبَّنَا آتِنَا فِي الدُّنْيَا حَسَنَةً وَفِي الْآخِرَةِ حَسَنَةً وَقِنَا عَذَابَ النَّارِ.<br>
+         وَصَلَّى اللهُ عَلَى نَبِيِّنَا مُحَمَّدٍ وَعَلَى آلِهِ وَصَحْبِهِ وَمَنْ تَبِعَهُمْ بِإِحْسَانٍ إِلَى يَوْمِ الدِّين<br>
+         .وَآخِرُ دَعْوَانَا أَنِ الْحَمْدُ لِلَّهِ رَبِّ الْعَالَمِينَ. أَقِيمُوا الصَّلَاةَ</p>
+
+         
+</body>
+
+</html>
